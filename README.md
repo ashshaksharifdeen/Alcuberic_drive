@@ -1,6 +1,9 @@
 # face_attendence
 
 A new Flutter project.
+School student progress checking, Attendance monitoring using Ai
+
+This is school students attendence monitoring using face recognization and subjects progress checking cloud based mobile app platform Here Every shool can register their school and can able to create their classroom and add student details of that specific classroom. This app is still on developing mode
 
 ## Getting Started
 
