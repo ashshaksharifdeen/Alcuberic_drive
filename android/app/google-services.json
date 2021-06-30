@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692481011076",
+    "project_id": "alcubericdrive",
+    "storage_bucket": "alcubericdrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692481011076:android:1c106566a2ec989b8dc1d1",
+        "android_client_info": {
+          "package_name": "com.example.face_attendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692481011076-ku4h7muuui6s1jfdvhg43uv2pib16gpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkarKJrjIiBb8a9bqiirDUhLlmSJ28rRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692481011076-ku4h7muuui6s1jfdvhg43uv2pib16gpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
